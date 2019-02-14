@@ -1,0 +1,23 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/lab2-VimeanSam.git"
+  },
+  "author": "vimean sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/lab2-VimeanSam/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/lab2-VimeanSam#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
